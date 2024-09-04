@@ -1,3 +1,23 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Ignorar arquivo de banco de dados SQLite
+*.sqlite
+*.db
+
+# Ignorar diretório de banco de dados
+/path/to/database/
+
+# Ignora arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de log
+*.log
+
+# Ignora diretório de dependências
+/node_modules
+
+# Ignora arquivos de build
+/dist
